@@ -23,7 +23,7 @@ A Jupyter notebook-based RAG system that uses Google's Gemini AI to answer quest
 
 ```bash
 git clone https://github.com/samyakraka/RAG-Langchain/
-cd RAG
+cd RAG-Langchain
 ```
 
 2. Install required packages:
