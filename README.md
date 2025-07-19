@@ -22,7 +22,7 @@ A Jupyter notebook-based RAG system that uses Google's Gemini AI to answer quest
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/samyakraka/RAG-Langchain/
 cd RAG
 ```
 
@@ -73,7 +73,9 @@ RAG/
 ├── requirements.txt    # Python dependencies
 ├── README.md          # This file
 ├── .env               # Environment variables (not tracked)
-└── .gitignore         # Git ignore file
+├── .gitignore         # Git ignore file
+└── content/
+    └── Healthcare_guide_proper.pdf  # Sample healthcare document
 ```
 
 ## Contributing
